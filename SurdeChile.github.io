@@ -1,0 +1,11 @@
+- sur-de-chile-website/
+  - index.html
+  - paginas/
+    - sur-de-chile.html
+    - regiones-del-sur.html
+    - lugares-turisticos.html
+    - mi-recorrido.html
+  - css/
+    - styles.css
+  - img/
+    - (coloca aquí tus imágenes)
